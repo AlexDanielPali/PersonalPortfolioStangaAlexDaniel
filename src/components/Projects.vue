@@ -35,7 +35,7 @@ export default {
           image: "/assets/project-5.png",
           github:
             "https://github.com/AlexDanielPali/HexSoftwares_MusicPlayer_Stanga_Alex_Daniel/",
-          demo: "https://papaya-valkyrie-ff8852.netlify.app/",
+          demo: "https://graalmusicplayer.netlify.app/",
         },
         {
           title: "Project Six",
