@@ -41,8 +41,8 @@ export default {
           title: "Project Six",
           image: "/assets/project-6.png",
           github:
-            "https://github.com/AlexDanielPali/HexSoftwares_AnimatedWebsite_Stanga_Alex_Daniel",
-          demo: "https://alexdanielpali.github.io/HexSoftwares_AnimatedWebsite_Stanga_Alex_Daniel/",
+            "https://github.com/AlexDanielPali/SolarSystem",
+          demo: "https://solarsystemstangaalexdaniel.netlify.app/",
         },
       ],
     };
